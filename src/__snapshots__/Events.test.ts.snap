@@ -53,7 +53,7 @@ exports[`События createLink При первом клике в конец 
   <a
     href="https://tensor.ru/"
   >
-    tensor https://tensor.ru/
+    tensorhttps://tensor.ru/
   </a>
 </body>
 `;
